@@ -1,0 +1,16 @@
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\bin\Debug\net8.0-windows\Obsurifier.exe
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\bin\Debug\net8.0-windows\Obsurifier.deps.json
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\bin\Debug\net8.0-windows\Obsurifier.runtimeconfig.json
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\bin\Debug\net8.0-windows\Obsurifier.dll
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\bin\Debug\net8.0-windows\Obsurifier.pdb
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.Form1.resources
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.csproj.GenerateResource.cache
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.AssemblyInfoInputs.cache
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.AssemblyInfo.cs
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.csproj.CoreCompileInputs.cache
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.dll
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\refint\Obsurifier.dll
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.pdb
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\Obsurifier.genruntimeconfig.cache
+C:\Users\buh6632\source\repos\Obsurifier\Obsurifier\obj\Debug\net8.0-windows\ref\Obsurifier.dll

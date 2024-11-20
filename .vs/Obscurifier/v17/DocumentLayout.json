@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41B3E2CD-C0E4-4BCE-B577-7DA96C9EC792}|Obsurifier\\Obsurifier.csproj|c:\\users\\buh6632\\source\\repos\\obsurifier\\obsurifier\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B3E2CD-C0E4-4BCE-B577-7DA96C9EC792}|Obsurifier\\Obsurifier.csproj|solutionrelative:obsurifier\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B3E2CD-C0E4-4BCE-B577-7DA96C9EC792}|Obsurifier\\Obsurifier.csproj|c:\\users\\buh6632\\source\\repos\\obsurifier\\obsurifier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B3E2CD-C0E4-4BCE-B577-7DA96C9EC792}|Obsurifier\\Obsurifier.csproj|solutionrelative:obsurifier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B3E2CD-C0E4-4BCE-B577-7DA96C9EC792}|Obsurifier\\Obsurifier.csproj|c:\\users\\buh6632\\source\\repos\\obsurifier\\obsurifier\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41B3E2CD-C0E4-4BCE-B577-7DA96C9EC792}|Obsurifier\\Obsurifier.csproj|solutionrelative:obsurifier\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41B3E2CD-C0E4-4BCE-B577-7DA96C9EC792}|Obsurifier\\Obsurifier.csproj|c:\\users\\buh6632\\source\\repos\\obsurifier\\obsurifier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41B3E2CD-C0E4-4BCE-B577-7DA96C9EC792}|Obsurifier\\Obsurifier.csproj|solutionrelative:obsurifier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHcUAAAAAAAAAAAcwJUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-19T19:38:45.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\Obsurifier\\Utils.cs",
+              "RelativeDocumentMoniker": "Obsurifier\\Utils.cs",
+              "ToolTip": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\Obsurifier\\Utils.cs",
+              "RelativeToolTip": "Obsurifier\\Utils.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:50:01.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\Obsurifier\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Obsurifier\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\Obsurifier\\Form1.Designer.cs",
+              "RelativeToolTip": "Obsurifier\\Form1.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wCsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:28:13.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\Obsurifier\\Form1.cs",
+              "RelativeDocumentMoniker": "Obsurifier\\Form1.cs",
+              "ToolTip": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\Obsurifier\\Form1.cs",
+              "RelativeToolTip": "Obsurifier\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:23:23.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\Obsurifier\\Form1.cs",
+              "RelativeDocumentMoniker": "Obsurifier\\Form1.cs",
+              "ToolTip": "C:\\Users\\buh6632\\source\\repos\\Obsurifier\\Obsurifier\\Form1.cs [Design]",
+              "RelativeToolTip": "Obsurifier\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:19:45.024Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
